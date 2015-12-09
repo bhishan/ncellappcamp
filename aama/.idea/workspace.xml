@@ -1,0 +1,1613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="name" value="app: com.appcamp.aama" />
+        <option name="packageNamePattern" value="com.appcamp.aama" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.appcamp.aama" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4067c3b-9bb3-4d1a-94c1-c5e1ec3fa213" name="Default" comment="" />
+    <ignored path="aama.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="aama" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.108742" vertical-offset="14870" max-vertical-offset="15498">
+              <caret line="855" column="0" selection-start-line="855" selection-start-column="0" selection-end-line="855" selection-end-column="0" />
+              <folding>
+                <marker date="1449637608314" expanded="true" signature="1732:1746" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="4774:4831" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="7401:7452" placeholder="CREATE TABLE..person..." />
+                <marker date="1449637608314" expanded="true" signature="7487:7540" placeholder="INSERT OR RE..." />
+                <marker date="1449637608314" expanded="true" signature="7583:7636" placeholder="INSERT OR RE..." />
+                <marker date="1449637608314" expanded="true" signature="7679:7732" placeholder="INSERT OR RE..." />
+                <marker date="1449637608314" expanded="true" signature="7775:7828" placeholder="INSERT OR RE..." />
+                <marker date="1449637608314" expanded="true" signature="8035:8055" placeholder="SELECT * FRO..person..." />
+                <marker date="1449637608314" expanded="true" signature="15407:15421" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="15649:15663" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="16403:16417" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="20754:20800" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="20897:20911" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="21267:21304" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="21387:21400" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="21483:21520" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="21602:21615" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="21696:21733" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="21815:21828" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="21910:21947" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="22029:22061" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="23036:23052" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="23065:23080" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="23237:23251" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="23291:23306" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="23337:23439" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="23521:23532" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="23554:23567" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="23940:23989" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="24074:24086" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="24131:24147" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="24243:24292" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="24376:24388" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="24430:24446" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="24540:24589" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="24673:24685" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="24728:24744" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="24838:24887" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="24971:24983" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="25026:25042" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="27413:27427" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="27474:27489" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="27520:27622" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="27708:27719" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="27741:27754" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="28391:28440" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="28538:28550" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="28614:28630" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="28732:28781" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="28866:28878" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="28942:28958" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="31774:31819" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="33645:33658" placeholder="..." />
+                <marker date="1449637608314" expanded="true" signature="34450:34463" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reorder.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/img/reorder.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="info.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/info.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="9090">
+              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messageforpatient.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/messageforpatient.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="216">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messagefordoctor.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/messagefordoctor.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="180">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quiz.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/quiz.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+              <caret line="0" column="239" selection-start-line="0" selection-start-column="239" selection-end-line="0" selection-end-column="239" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="6948" max-vertical-offset="8928">
+              <caret line="391" column="0" selection-start-line="391" selection-start-column="0" selection-end-line="391" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#form#0;n#div#2;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#fieldset#0;n#div#1;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#11;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#fieldset#0;n#div#0;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/users.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="126">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="queries.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/queries.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="216">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reorder.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/css/reorder.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="947" max-vertical-offset="2250">
+              <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/js/iscroll.js" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/css/normalize.css" />
+        <option value="$PROJECT_DIR$/platforms/android/res/xml/aconfig.xml" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/css/TimeCircle.css" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/js/TimeCircle.js" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/queries.json" />
+        <option value="$PROJECT_DIR$/platforms/android/res/xml/config.xml" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/css/horizontalscroll.css" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/info.json" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/css/reorder.css" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/messageforpatient.json" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/messagefordoctor.json" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/quiz.json" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/users.json" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/index.html" />
+        <option value="$PROJECT_DIR$/platforms/android/assets/www/js/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="57" />
+    <option name="y" value="24" />
+    <option name="width" value="1309" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aama" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aama" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aama" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aama" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="preferences.pathVariables" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/platforms/android/assets/www/img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.android">
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="android" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="android" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.android" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4067c3b-9bb3-4d1a-94c1-c5e1ec3fa213" name="Default" comment="" />
+      <created>1447060913836</created>
+      <option name="number" value="Default" />
+      <updated>1447060913836</updated>
+      <workItem from="1447060918472" duration="3019000" />
+      <workItem from="1447065751483" duration="5428000" />
+      <workItem from="1447075162067" duration="3851000" />
+      <workItem from="1447149639037" duration="5798000" />
+      <workItem from="1448681915069" duration="19134000" />
+      <workItem from="1448717224544" duration="1519000" />
+      <workItem from="1448721741355" duration="2467000" />
+      <workItem from="1448762428336" duration="2455000" />
+      <workItem from="1448770413196" duration="9874000" />
+      <workItem from="1448792288985" duration="1108000" />
+      <workItem from="1448802634813" duration="5012000" />
+      <workItem from="1448852247405" duration="4210000" />
+      <workItem from="1448873291046" duration="630000" />
+      <workItem from="1448993591468" duration="5543000" />
+      <workItem from="1449024965135" duration="2733000" />
+      <workItem from="1449043861429" duration="2330000" />
+      <workItem from="1449051906482" duration="639000" />
+      <workItem from="1449298315483" duration="5856000" />
+      <workItem from="1449311678684" duration="6616000" />
+      <workItem from="1449323385588" duration="8456000" />
+      <workItem from="1449366953622" duration="7124000" />
+      <workItem from="1449386410866" duration="12227000" />
+      <workItem from="1449456317649" duration="1334000" />
+      <workItem from="1449477882734" duration="320000" />
+      <workItem from="1449482263478" duration="4434000" />
+      <workItem from="1449545624015" duration="9830000" />
+      <workItem from="1449563127127" duration="7231000" />
+      <workItem from="1449575034516" duration="3918000" />
+      <workItem from="1449583154185" duration="16257000" />
+      <workItem from="1449625696422" duration="2395000" />
+      <workItem from="1449632106267" duration="6695000" />
+      <workItem from="1449650807953" duration="456000" />
+      <workItem from="1449654243738" duration="655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="169554000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="57" y="24" width="1309" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20987654" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18052256" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3271605" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18052256" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3271605" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19907407" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/notificationscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3624" max-vertical-offset="4365">
+          <caret line="280" column="22" selection-start-line="280" selection-start-column="22" selection-end-line="280" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="4110">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/info.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4635">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/users.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/css/reorder.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1245">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1803" max-vertical-offset="6735">
+          <caret line="143" column="0" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+          <folding>
+            <marker date="1449637608314" expanded="true" signature="1732:1746" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="4774:4831" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="7401:7452" placeholder="CREATE TABLE..person..." />
+            <marker date="1449637608314" expanded="true" signature="7487:7540" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7583:7636" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7679:7732" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7775:7828" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="8035:8055" placeholder="SELECT * FRO..person..." />
+            <marker date="1449637608314" expanded="true" signature="15407:15421" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="15649:15663" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="16403:16417" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="20754:20800" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="20897:20911" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21267:21304" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21387:21400" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21483:21520" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21602:21615" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21696:21733" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21815:21828" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21910:21947" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="22029:22061" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23036:23052" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23065:23080" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23237:23251" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23291:23306" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23337:23439" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23521:23532" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23554:23567" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23940:23989" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24074:24086" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24131:24147" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24243:24292" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24376:24388" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24430:24446" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24540:24589" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24673:24685" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24728:24744" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24838:24887" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24971:24983" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="25026:25042" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27413:27427" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27474:27489" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27520:27622" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27708:27719" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27741:27754" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28391:28440" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28538:28550" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28614:28630" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28732:28781" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28866:28878" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28942:28958" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="31774:31819" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="33645:33658" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="34450:34463" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/plugins/de.appplant.cordova.plugin.local-notification/www/local-notification.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10974" max-vertical-offset="11445">
+          <caret line="757" column="0" selection-start-line="757" selection-start-column="0" selection-end-line="757" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/notificationscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3624" max-vertical-offset="4365">
+          <caret line="280" column="22" selection-start-line="280" selection-start-column="22" selection-end-line="280" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4095">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/info.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4635">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/users.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/css/reorder.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1245">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6555">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1449637608314" expanded="true" signature="1732:1746" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="4774:4831" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="7401:7452" placeholder="CREATE TABLE..person..." />
+            <marker date="1449637608314" expanded="true" signature="7487:7540" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7583:7636" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7679:7732" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7775:7828" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="8035:8055" placeholder="SELECT * FRO..person..." />
+            <marker date="1449637608314" expanded="true" signature="15407:15421" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="15649:15663" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="16403:16417" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="20754:20800" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="20897:20911" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21267:21304" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21387:21400" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21483:21520" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21602:21615" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21696:21733" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21815:21828" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21910:21947" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="22029:22061" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23036:23052" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23065:23080" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23237:23251" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23291:23306" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23337:23439" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23521:23532" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23554:23567" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23940:23989" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24074:24086" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24131:24147" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24243:24292" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24376:24388" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24430:24446" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24540:24589" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24673:24685" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24728:24744" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24838:24887" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24971:24983" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="25026:25042" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27413:27427" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27474:27489" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27520:27622" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27708:27719" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27741:27754" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28391:28440" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28538:28550" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28614:28630" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28732:28781" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28866:28878" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28942:28958" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="31774:31819" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="33645:33658" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="34450:34463" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/plugins/de.appplant.cordova.plugin.local-notification/www/local-notification.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10974" max-vertical-offset="11445">
+          <caret line="757" column="0" selection-start-line="757" selection-start-column="0" selection-end-line="757" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/notificationscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3624" max-vertical-offset="4365">
+          <caret line="280" column="22" selection-start-line="280" selection-start-column="22" selection-end-line="280" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2625" max-vertical-offset="3405">
+          <caret line="180" column="66" selection-start-line="180" selection-start-column="45" selection-end-line="180" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/info.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4635">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6150">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1449637608314" expanded="true" signature="1732:1746" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="4774:4831" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="7401:7452" placeholder="CREATE TABLE..person..." />
+            <marker date="1449637608314" expanded="true" signature="7487:7540" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7583:7636" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7679:7732" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7775:7828" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="8035:8055" placeholder="SELECT * FRO..person..." />
+            <marker date="1449637608314" expanded="true" signature="15407:15421" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="15649:15663" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="16403:16417" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="20754:20800" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="20897:20911" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21267:21304" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21387:21400" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21483:21520" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21602:21615" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21696:21733" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21815:21828" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21910:21947" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="22029:22061" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23036:23052" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23065:23080" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23237:23251" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23291:23306" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23337:23439" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23521:23532" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23554:23567" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23940:23989" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24074:24086" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24131:24147" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24243:24292" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24376:24388" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24430:24446" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24540:24589" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24673:24685" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24728:24744" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24838:24887" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24971:24983" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="25026:25042" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27413:27427" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27474:27489" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27520:27622" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27708:27719" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27741:27754" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28391:28440" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28538:28550" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28614:28630" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28732:28781" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28866:28878" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28942:28958" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="31774:31819" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="33645:33658" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="34450:34463" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/plugins/de.appplant.cordova.plugin.local-notification/www/local-notification.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10974" max-vertical-offset="11445">
+          <caret line="757" column="0" selection-start-line="757" selection-start-column="0" selection-end-line="757" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/notificationscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3624" max-vertical-offset="4365">
+          <caret line="282" column="7" selection-start-line="279" selection-start-column="4" selection-end-line="282" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6090">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1449637608314" expanded="true" signature="1732:1746" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="4774:4831" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="7401:7452" placeholder="CREATE TABLE..person..." />
+            <marker date="1449637608314" expanded="true" signature="7487:7540" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7583:7636" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7679:7732" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7775:7828" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="8035:8055" placeholder="SELECT * FRO..person..." />
+            <marker date="1449637608314" expanded="true" signature="15407:15421" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="15649:15663" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="16403:16417" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="20754:20800" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="20897:20911" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21267:21304" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21387:21400" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21483:21520" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21602:21615" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21696:21733" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21815:21828" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21910:21947" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="22029:22061" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23036:23052" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23065:23080" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23237:23251" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23291:23306" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23337:23439" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23521:23532" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23554:23567" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23940:23989" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24074:24086" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24131:24147" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24243:24292" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24376:24388" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24430:24446" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24540:24589" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24673:24685" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24728:24744" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24838:24887" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24971:24983" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="25026:25042" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27413:27427" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27474:27489" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27520:27622" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27708:27719" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27741:27754" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28391:28440" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28538:28550" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28614:28630" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28732:28781" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28866:28878" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28942:28958" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="31774:31819" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="33645:33658" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="34450:34463" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/plugins/de.appplant.cordova.plugin.local-notification/www/local-notification.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6823" max-vertical-offset="11445">
+          <caret line="464" column="8" selection-start-line="464" selection-start-column="8" selection-end-line="464" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/notificationscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3624" max-vertical-offset="4365">
+          <caret line="282" column="7" selection-start-line="279" selection-start-column="4" selection-end-line="282" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6660">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1449637608314" expanded="true" signature="1732:1746" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="4774:4831" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="7401:7452" placeholder="CREATE TABLE..person..." />
+            <marker date="1449637608314" expanded="true" signature="7487:7540" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7583:7636" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7679:7732" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7775:7828" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="8035:8055" placeholder="SELECT * FRO..person..." />
+            <marker date="1449637608314" expanded="true" signature="15407:15421" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="15649:15663" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="16403:16417" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="20754:20800" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="20897:20911" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21267:21304" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21387:21400" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21483:21520" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21602:21615" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21696:21733" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21815:21828" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21910:21947" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="22029:22061" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23036:23052" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23065:23080" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23237:23251" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23291:23306" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23337:23439" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23521:23532" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23554:23567" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23940:23989" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24074:24086" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24131:24147" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24243:24292" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24376:24388" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24430:24446" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24540:24589" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24673:24685" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24728:24744" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24838:24887" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24971:24983" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="25026:25042" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27413:27427" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27474:27489" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27520:27622" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27708:27719" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27741:27754" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28391:28440" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28538:28550" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28614:28630" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28732:28781" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28866:28878" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28942:28958" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="31774:31819" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="33645:33658" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="34450:34463" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/plugins/de.appplant.cordova.plugin.local-notification/www/local-notification.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="838" max-vertical-offset="11445">
+          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/notificationscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="4365">
+          <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/plugins/de.appplant.cordova.plugin.local-notification/www/local-notification.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.8849105" vertical-offset="21216" max-vertical-offset="22127">
+          <caret line="757" column="0" selection-start-line="757" selection-start-column="0" selection-end-line="757" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/notificationscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.29156" vertical-offset="7006" max-vertical-offset="8439">
+          <caret line="280" column="22" selection-start-line="280" selection-start-column="22" selection-end-line="280" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/css/TimeCircle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="123" max-vertical-offset="864">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/res/xml/aaconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.4" vertical-offset="29" max-vertical-offset="775">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/cordova_plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/res/xml/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="1494">
+          <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/TimeCircle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7952" max-vertical-offset="17190">
+          <caret line="452" column="103" selection-start-line="452" selection-start-column="99" selection-end-line="452" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/info2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5562">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/res/drawable-port-ldpi/screen.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/res/drawable/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/res/drawable-hdpi/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/img/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/res/drawable-ldpi/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2178">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/css/reorder.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="947" max-vertical-offset="2250">
+          <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/queries.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="216">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/messageforpatient.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="216">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/quiz.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="126">
+          <caret line="0" column="239" selection-start-line="0" selection-start-column="239" selection-end-line="0" selection-end-column="239" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/img/reorder.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/info.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="9090">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/users.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="126">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/messagefordoctor.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="180">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6948" max-vertical-offset="8928">
+          <caret line="391" column="0" selection-start-line="391" selection-start-column="0" selection-end-line="391" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#form#0;n#div#2;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#fieldset#0;n#div#1;n#div#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#10;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#11;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#fieldset#0;n#div#0;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/android/assets/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.108742" vertical-offset="14870" max-vertical-offset="15498">
+          <caret line="855" column="0" selection-start-line="855" selection-start-column="0" selection-end-line="855" selection-end-column="0" />
+          <folding>
+            <marker date="1449637608314" expanded="true" signature="1732:1746" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="4774:4831" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="7401:7452" placeholder="CREATE TABLE..person..." />
+            <marker date="1449637608314" expanded="true" signature="7487:7540" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7583:7636" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7679:7732" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="7775:7828" placeholder="INSERT OR RE..." />
+            <marker date="1449637608314" expanded="true" signature="8035:8055" placeholder="SELECT * FRO..person..." />
+            <marker date="1449637608314" expanded="true" signature="15407:15421" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="15649:15663" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="16403:16417" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="20754:20800" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="20897:20911" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21267:21304" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21387:21400" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21483:21520" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21602:21615" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21696:21733" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21815:21828" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="21910:21947" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="22029:22061" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23036:23052" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23065:23080" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23237:23251" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23291:23306" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23337:23439" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23521:23532" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23554:23567" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="23940:23989" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24074:24086" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24131:24147" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24243:24292" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24376:24388" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24430:24446" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24540:24589" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24673:24685" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24728:24744" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24838:24887" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="24971:24983" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="25026:25042" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27413:27427" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27474:27489" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27520:27622" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27708:27719" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="27741:27754" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28391:28440" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28538:28550" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28614:28630" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28732:28781" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28866:28878" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="28942:28958" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="31774:31819" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="33645:33658" placeholder="..." />
+            <marker date="1449637608314" expanded="true" signature="34450:34463" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>grails-2.4.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 19 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>android-support-v41</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
